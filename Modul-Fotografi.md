@@ -86,5 +86,5 @@ menghasilkan gambar dari pita film dan tidak menghasilkan gambar digital
 sinyal ditangkap dari luar dan di proses secara keseluruhan untuk mendapatkan
 hasil terbaik. 
 
-![alt text](IMG/)
+![alt text](IMG/kamera-analog.png)
 
